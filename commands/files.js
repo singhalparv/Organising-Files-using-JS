@@ -10,5 +10,5 @@ module.exports.types={
 // for(let category in types){
 //     console.log(types);
 //     console.log(category[types]);
-//     console.log("``````````````````````````")
+//     console.log("``````````````````````````````")
 // }
